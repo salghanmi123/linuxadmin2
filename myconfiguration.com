@@ -1,1 +1,2 @@
-configuration for linux
+configuration for linu
+x
